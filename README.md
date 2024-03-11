@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kshitiz Aroraa</h1>
 <h3 align="center">A traveler, traveling from stars to stacks</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizaroraa&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizaroraa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kshitizaroraa" target="blank"><img src="https://img.shields.io/twitter/follow/kshitizaroraa?logo=twitter&style=for-the-badge" alt="kshitizaroraa" /></a> </p>
